@@ -1,0 +1,30 @@
+# Archivos compilados y de salida
+target/
+*.class
+*.jar
+*.war
+
+# Archivos de log
+*.log
+
+# Archivos del IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.project
+.classpath
+.settings/
+nbproject/
+*.swp
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variables de entorno y configuración local
+*.env
+application-local.properties
